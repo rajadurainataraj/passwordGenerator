@@ -1,0 +1,51 @@
+body {
+    /* font-family: 'Orbitron', sans-serif; */
+    margin: 0;
+    background: #322e4d;
+    margin-left: 0px;
+    margin-right: 0px;
+    width:100%;
+    text-align: center
+}
+.txt-grn {
+    color:#1ed476
+}
+.txt-wht {
+    color:white
+}
+.txt-gry {
+    color:grey
+}
+.btn-pwd {
+    padding:10px 10px;
+    color:white;
+    background: #1ed476;
+    border-radius:5px;
+    border:none;
+}
+.line {
+    display: block;
+    width:90%;
+    background: grey;
+    height: 1px;
+    margin-top: 30px;
+    /* //text-align:center; */
+    margin-left: auto;
+    margin-right:auto;
+    
+}
+.common {
+    display: flex;
+    flex-direction: row;
+    justify-content: center
+    
+}
+.random {
+    background: #343b37;
+    width:40%;
+    text-align: center;
+    padding:8px 10px;
+    border-radius:5px;
+    margin:10px 10px;
+    color:#1ed476;
+}
